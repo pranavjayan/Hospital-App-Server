@@ -1,0 +1,22 @@
+[
+  {
+    "name": "KIMS",
+    "patient_count": "440",
+    "place": "tvm"
+  },
+  {
+    "name": "SP Medi Fort",
+    "patient_count": "179",
+    "place": "Chakka"
+  },
+  {
+    "name": "Ananthapuri",
+    "patient_count": "500",
+    "place": "tvm"
+  },
+  {
+    "name": "SP Fort",
+    "patient_count": "640",
+    "place": "tvm"
+  }
+]
